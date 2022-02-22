@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <style>
 body, html {
   height: 100%;
@@ -85,4 +83,3 @@ var countdownfunction = setInterval(function() {
 </script>
 
 </body>
-</html>
