@@ -1,1 +1,1 @@
-# Welcome to 5addemni paltform ----comming soon----
+Welcome to 5addemni paltform ----comming soon----
